@@ -4,3 +4,6 @@ Welcome to mom's kitchen.
 panipuri.
 pav
 pasta
+
+chicken fry
+mutton curry
